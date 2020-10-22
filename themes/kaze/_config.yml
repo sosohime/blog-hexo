@@ -225,6 +225,6 @@ cdn:
   valine: //unpkg.com/valine/dist/Valine.min.js
   livere: //cdn-city.livere.com/js/embed.dist.js
   fslightbox: //cdn.jsdelivr.net/npm/fslightbox@3.1.0/index.min.js
-  lozad: /js/lib/lozad.min.js
-  prism: /js/lib/prism/
-  busuanzi: /js/lib/busuanzi.min.js
+  lozad: /hexo/js/lib/lozad.min.js
+  prism: /hexo/js/lib/prism/
+  busuanzi: /hexo/js/lib/busuanzi.min.js
