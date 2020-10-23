@@ -244,5 +244,5 @@ const localSearch = function (path) {
     });
 };
 setTimeout(() => {
-  localSearch('/hexo/search.json');
+  localSearch(window.__root ? __root + 'search.json' : '/search.json');
 }, 0);
