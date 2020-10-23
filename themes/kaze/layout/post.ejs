@@ -21,7 +21,7 @@
     <% if(page.categories && page.categories.data.length) { %>
     <span class="dot"></span>
     <% for(const item of page.categories.data) { %>
-    <a href="/<%= item.path %>" class="post-meta-link"><%= item.name %></a>
+    <a href="<%= config.root  %><%= item.path %>" class="post-meta-link"><%= item.name %></a>
     <% } %>
     <% } %>
     <% if(theme.wordcount.enable) { %>
@@ -37,7 +37,7 @@
       <% if(index > 0) { %>
       <span class="dot"></span>
       <% } %>
-        <a href="/<%= item.path %>" class="post-meta-link"><%= item.name %></a>
+        <a href="<%= config.root  %><%= item.path %>" class="post-meta-link"><%= item.name %></a>
       <% }) %>
     </div>
   </div>
