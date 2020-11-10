@@ -8,7 +8,7 @@ github: https://github.com/sosohime
 
 ## 个人简介
 
-- Typescript \ React \ Redux \ MobX \ Antd \ Hybird \ Webpack \ NodeJS \ Puppeteer \ MySQL \ Redis \ MQ
+- Typescript \ React \ Redux \ MobX \ Antd \ NodeJS \ Puppeteer \ MySQL \ Redis \ MQ
 - 熟悉 Web 项目开发部署运维，基于 Webpack \ ESLint \ Jest \ Git CI 等构建前端项目工程化
 - 熟悉 Node 项目开发、运维
 - 熟悉 Git 工作流
@@ -21,7 +21,7 @@ github: https://github.com/sosohime
 
 时间: 2018/09 至今
 技术栈: NodeJS \ Typescript \ React \ MySQL \ Redis \ MQ
-简介: 所属团队为自动化投放方向，支持内部产品在国内&海外自动化投放工作，支持投放团队的多平台内容投放、项目管理及风控，对接第三方平台、消耗抓取、自动化投放、自动化策略执行及相关工具开发。
+简介: 所属团队为自动化投放方向，支持内部产品在国内&海外自动化投放工作，支持投放团队的多平台内容投放、项目管理及风控，对接第三方平台、自动化投放、半自动化投放、自动化策略执行及相关工具开发。
 
 职责: 
 - 负责投放系统的代码结构设计，对通用流程进行抽象，减少新媒体平台接入成本，代码高度可维护。
