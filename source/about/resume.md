@@ -9,10 +9,10 @@ github: https://github.com/sosohime
 ## 个人简介
 
 - Typescript \ React \ Redux \ MobX \ Antd \ NodeJS \ Puppeteer \ MySQL \ Redis \ MQ
-- 熟悉 Web 项目开发部署运维，基于 Webpack \ ESLint \ Jest \ Git CI 等构建前端项目工程化
+- 熟悉 Web 项目开发部署运维，基于 Webpack \ ESLint \ Jest \ Git CI/CD 等构建前端项目工程化
 - 熟悉 Node 项目开发、运维
 - 熟悉 Git 工作流
-- 擅长组件抽象设计，Antd Contributor
+- 擅长组件抽象设计，协助UI提升交互体验，Antd Contributor
 - 代码洁癖，追求优雅和极致
 
 ## 项目经历
@@ -27,7 +27,7 @@ github: https://github.com/sosohime
 - 负责投放系统的代码结构设计，对通用流程、组件进行抽象，降低新平台接入成本，提升开发效率。
 - 负责投放系统前端通用组件设计、开发、迭代。
 - 负责对接媒体平台API，数据打通，提供广告创建、管理服务，完善监控报警、异常分析。
-- 负责多个媒体平台全自动创意投放，协助优化师对音视频素材、文案、标签等效果的探索
+- 负责多个媒体平台全自动创意投放，协助优化师对音视频素材、文案、标签等效果的探索。
 - 负责内部产品在腾讯系平台渠道包自动传包更版、在投广告渠道包自动更新服务。
 - 负责创意中台的创意生成工具、创意模板编辑器。
 - 负责各平台多维度广告下线服务，支持风控需求。
