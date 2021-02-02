@@ -11,5 +11,13 @@ tags:
 ## 磕头送福
 ![博哥完美谢幕](/hexo/img/wufu/bo-1.jpeg)
 
+## 马博士 <del>xingxuedashi</del>
+![马博士笑对鸽子](/hexo/img/wufu/maboshi-1.png)
+
+## 字节跳动未正面回应
+![gtmdzym](/hexo/img/wufu/zym-1.png)
+
+## 地王主持会议
+![明年买几套？](/hexo/img/wufu/yulai-1.png)
 ---
 > 持续更新中...
