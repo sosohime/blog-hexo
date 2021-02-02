@@ -128,13 +128,5 @@
   <% console.log('INFO: your Hexo version < 5.0.0 and could not use prismjs') %>
   <% } %>
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7X12WXHWRW"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-7X12WXHWRW');
-  </script>
+  <%- partial('plugins/google-analysis') %>
 </head>
