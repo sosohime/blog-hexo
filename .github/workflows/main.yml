@@ -23,7 +23,7 @@ jobs:
     steps:
       - name: Notify server of project updates
         run: |
-          RES=$(curl -d 'event=update-hexo-blog&token=${{ secrets.update_hexo_blog_token }}' -X POST https://yuanbo.online/${{ secrets.update_hexo_blog_path }})
+          RES=$(curl -d 'event=update-hexo-blog&token=${{ secrets.UPDATE_HEXO_BLOG_TOKEN }}' -X POST https://yuanbo.online/${{ secrets.UPDATE_HEXO_BLOG_PATH }})
           code=$RES | perl -pe 's/.*?"code":(\d+).+/\1/six'
           echo "code: $code"
           if [ "$code" -eq "0" ]; then
