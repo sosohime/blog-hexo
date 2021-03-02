@@ -13,7 +13,7 @@ github: <https://github.com/sosohime>
 ## 个人简介
 
 - Typescript \ React \ Redux \ MobX \ Antd \ NodeJS \ Puppeteer \ MySQL \ Redis \ MQ
-- 熟悉 Web 项目开发部署运维，基于 Webpack \ ESLint \ Jest \ Git CI/CD 等构建前端项目工程化
+- 熟悉 Web 项目开发部署运维，基于 Webpack \ ESLint \ Jest \ Git CI/CD 等前端项目工程化
 - 熟悉 Node 项目开发、运维
 - 熟悉 Git 工作流
 - 擅长组件抽象设计，协助UI提升交互体验
