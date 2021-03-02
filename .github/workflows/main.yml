@@ -22,4 +22,13 @@ jobs:
     # 为了防止被刷爆，隐藏更新地址并设置一个token在环境变量中，接口处也校验一下
     steps:
       - name: Notify server of project updates
-        run: curl -d https://yuanbo.online/${{ secrets.update_hexo_blog_path }}?event=update-hexo-blog&token=${{ secrets.update_hexo_blog_token }}
+        run: |
+          RES=$(curl -d 'event=update-hexo-blog&token=${{ secrets.update_hexo_blog_token }}' -X POST https://yuanbo.online/${{ secrets.update_hexo_blog_path }})
+          code=$RES | perl -pe 's/.*?"code":(\d+).+/\1/six'
+          echo "code: $code"
+          if [ "$code" -eq "0" ]; then
+              echo "success"
+          else
+              echo "publish failed, res: ${RES}"
+              exit 1
+          fi
