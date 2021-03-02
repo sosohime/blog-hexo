@@ -12,7 +12,7 @@ router.post(process.env.update_hexo_blog_path, async (ctx) => {
   const body = ctx.request.body || {};
   if (body.event === "update-hexo-blog" && body.token === process.env.update_hexo_blog_token) {
     const { stdout, stderr } = await exec('git pull && hexo g');
-    if(stderr) {
+    if(stderr && !stderr.includes('-> origin/master')) {
         ctx.body = {
             code: -1,
             error: stderr,
