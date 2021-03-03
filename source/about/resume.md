@@ -2,11 +2,11 @@
 
 贺业晟 \ 男 \ 哈尔滨师范大学 计算机科学与技术
 
-TEL: 18565249098
-
 职位: web前端 / 全栈
 
 工作经验: 5年
+
+TEL: 18565249098 Email: theziming@126.com
 
 github: <https://github.com/sosohime>
 
