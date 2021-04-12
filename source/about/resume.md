@@ -6,7 +6,9 @@
 
 工作经验: 5年
 
-TEL: 18565249098 Email: theziming@126.com
+TEL: 18565249098
+
+Email: theziming@126.com
 
 github: <https://github.com/sosohime>
 
