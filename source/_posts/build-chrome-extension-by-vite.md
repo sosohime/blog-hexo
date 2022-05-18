@@ -1,5 +1,5 @@
 ---
-title: build-chrome-extension-by-vite
+title: 使用Vite + Vue 开发构建Chrome Extension (MV3)
 date: 2022-05-12 14:43:25
 tags: [chrome, extension, vite, vue, echarts, holiday]
 ---
