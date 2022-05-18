@@ -1,7 +1,7 @@
 ---
 title: build-chrome-extension-by-vite
 date: 2022-05-12 14:43:25
-tags: chrome extension vite vue echarts holiday
+tags: [chrome, extension, vite, vue, echarts, holiday]
 ---
 
 ## 背景
