@@ -25,7 +25,7 @@ github: <https://github.com/sosohime>
 
 ### 腾讯 - CDG - 微信广告 | 全栈
 
-时间: 2021/05 - 2022/06
+时间: 2021/05 - 至今
 
 技术栈: React \ Typescript \ Vite \ NodeJS \ Redis \ Clickhouse \ 小程序
 
