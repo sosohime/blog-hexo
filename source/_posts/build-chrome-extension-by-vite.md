@@ -20,12 +20,12 @@ tags: [chrome, extension, vite, vue, echarts, holiday]
 - popup、content-script、inject-script、 background 间通信
 
 ## 流程图
-![热更新流程图]((/hexo/img/chrome-extension-vite-follow.png)
+![热更新流程图](/hexo/img/chrome-extension-vite-follow.png)
 
 ## 要点
 ### 环境隔离、通讯
 popup (chrome插件按钮弹出的的交互部分)、content-script ( 运行在浏览器上的脚本 ) 、background（后台运行脚本）、页面js是相互隔离的，相互调用方法如下图
-![Chrome插件脚本通讯]((/hexo/img/chrome-extension-script.png)
+![Chrome插件脚本通讯](/hexo/img/chrome-extension-script.png)
 ### content-script 运行 es module
 现代浏览器支持es-module必须使用<script type = "module" /> 来引入，而conent-script为纯脚本直接加载会报错，主文件为普通js，然后通过以下方式引用
 ```javascript
