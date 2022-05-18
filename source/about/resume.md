@@ -23,9 +23,32 @@ github: <https://github.com/sosohime>
 
 ## 项目经历
 
+### 腾讯 - CDG - 微信广告 | 全栈
+
+时间: 2021/05 - 2022/06
+
+技术栈: React \ Typescript \ Vite \ NodeJS \ Redis \ Clickhouse \ 小程序
+
+简介: 所属团队为微信广告运营支撑团队，主要负责微信广告运营工具、BI系统、引擎策略工具、微信流量主相关工具链、广告投诉模块等开发。同时参与其他流量线BI、策略工具开发。
+
+职责: 
+
+- 负责微信广告运营系统Web、小程序日常开发迭代
+
+- 负责BFF层、Node数据服务建设、异动诊断系统推送功能开发
+    - 通过node中间层数据服务，打通不同数据源，支持clickhouse、mysql、es等数据源配置化接入。开发查询工具npm包供前端使用，极大降低了数据接入成本。
+    - 提升广告部门同事触达运营数据、感知异动、事件处理的效率。
+
+- 前端框架升级、基础库迭代。
+    - 高频迭代系统全部接入Vite、操作埋点，提升开发体验同时，协助pm进行产品规划。
+
+- 适用于Echarts、Highcharts的Chrome扩展插件。
+    - 提供节假日展示、scale等功能，解决跨BI系统的图表扩展功能交互一致性问题、降低接入成本。
+    - 产出Chrome Extension开发脚手架，支持热更新、es module import
+
 ### 字节跳动 - Growth - 自动化投放 | 全栈
 
-时间: 2018/09 至今
+时间: 2018/09 - 2021/03
 
 技术栈: React \ Typescript \ NodeJS \ MySQL \ Redis \ MQ
 
