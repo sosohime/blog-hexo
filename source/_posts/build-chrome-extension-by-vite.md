@@ -27,7 +27,7 @@ tags: [chrome, extension, vite, vue, echarts, holiday]
 popup (chrome插件按钮弹出的的交互部分)、content-script ( 运行在浏览器上的脚本 ) 、background（后台运行脚本）、页面js是相互隔离的，相互调用方法如下图
 ![Chrome插件脚本通讯](/hexo/img/chrome-extension-script.png)
 ### content-script 运行 es module
-现代浏览器支持es-module必须使用<script type = "module" /> 来引入，而conent-script为纯脚本直接加载会报错，主文件为普通js，然后通过以下方式引用
+现代浏览器支持es-module必须使用<script type = "module"> 来引入，而conent-script为纯脚本直接加载会报错，主文件为普通js，然后通过以下方式引用
 ```javascript
 // content-script 无法使用 <script type="module">
 // 如果使用es module需要使用这种方式来引入
