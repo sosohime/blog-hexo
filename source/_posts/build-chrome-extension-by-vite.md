@@ -37,10 +37,6 @@ popup (chrome插件按钮弹出的的交互部分)、content-script ( 运行在�
 })();
 ```
 
-### 仓库地址
-https://git.woa.com/acehe/holiday_charts_extension
-
-
 ## 参考文章
 - [bilibili 弹幕控制台（WIP） Violet](https://github.com/yunsii/violet)
 - [chrome 扩展开发 - chrome.storage 本地存储](http://www.ptbird.cn/chrome-extensions-storage.html)
