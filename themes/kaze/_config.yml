@@ -37,7 +37,10 @@ links:
   # https://ptlogin2.qq.com/getface?appid=1006102&imgtype=3&uin=${yourQQNumber}
   # and use the encrypted url in the json
   #------------------------
-
+  name: 
+    url: https://acg.cx
+    avatar: https://www.gravatar.com/avatar/67de7a44872c4772b2838897a6cee124
+    description: .
 #------------------------
 # Post
 #------------------------
