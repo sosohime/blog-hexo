@@ -23,7 +23,7 @@ github: <https://github.com/sosohime>
 
 ## 项目经历
 
-### 腾讯 - CDG - 微信广告 | 全栈
+### 腾讯 - CDG - 微信广告 | 前端开发
 
 时间: 2021/05 - 至今
 
@@ -46,7 +46,7 @@ github: <https://github.com/sosohime>
     - 提供节假日展示、scale等功能，解决跨BI系统的图表扩展功能交互一致性问题、降低接入成本。
     - 产出Chrome Extension开发脚手架，支持热更新、es module import
 
-### 字节跳动 - Growth - 自动化投放 | 全栈
+### 字节跳动 - Growth - 自动化投放 | 前端开发
 
 时间: 2018/09 - 2021/03
 
