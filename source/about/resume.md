@@ -30,7 +30,7 @@ github: <https://github.com/sosohime>
 
 技术栈: Vue \ React \ Typescript \ Vite \ Webpack \ NodeJS
 
-简介: 所属团队为轻舟云原生前端团队，主要负责各类云原生模块前端开发，如微服务、中间件、DevOps等。
+简介: 所属团队为轻舟云原生前端团队，主要负责各类云原生模块开发，如微服务、中间件、DevOps等。
 
 职责：
 
