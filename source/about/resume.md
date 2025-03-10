@@ -28,8 +28,6 @@ github: <https://github.com/sosohime>
 
 ### 网易 - 杭州研究院 - 轻舟云原生 | 前端开发
 
-主要业务SAAS模式，云原生软件售卖，帮助金融证券行业上云
-
 时间: 2022/08 - 至今
 
 技术栈：Vue \ React \ Typescript \ Vite \ Webpack \ Node
