@@ -17,11 +17,12 @@ github: <https://github.com/sosohime>
 - Typescript \ React \ Vue \ Antd \ NodeJS \ Puppeteer \ MySQL \ Redis \ MQ
 - 熟悉 Web 项目开发部署运维，基于 Webpack \ ESLint \ Jest \ Git CI/CD 等前端项目工程化
 - 熟悉 Node 项目开发、运维
-- 熟悉 Git 工作流
 - 擅长组件抽象设计，协助UI提升交互体验
 - 丰富的项目搭建、重构经验，持续关注、研究、落地新技术
 - 有小程序、H5、Hybird开发经验
-- 代码洁癖，追求优雅和极致
+- 有浏览器插件、IDE插件开发经验
+- 了解常用SEO方案
+- 代码洁癖，追求优雅和极致，自动化脚本爱好者
 
 ## 工作经历
 
@@ -67,7 +68,7 @@ github: <https://github.com/sosohime>
 
 时间: 2021/05 - 2022/06
 
-技术栈: React \ Typescript \ Vite \ NodeJS \ Redis \ Clickhouse \ 小程序
+技术栈: React \ Typescript \ Vite \ NodeJS \ Redis \ ClickHouse \ 小程序
 
 简介: 所属团队为微信广告运营支撑团队，主要负责微信广告运营工具、BI系统、引擎策略工具、微信流量主相关工具链、广告投诉模块等。同时参与其他流量线BI系统、策略工具开发。
 
